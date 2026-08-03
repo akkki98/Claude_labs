@@ -2,7 +2,7 @@
 
 ## Lab Overview
 
-**Duration:** 90–120 Minutes
+**Duration:** 45 Minutes
 
 **Audience:** Developers, QA Engineers, Product Managers, Business Analysts, Data Engineers, Solution Architects
 
