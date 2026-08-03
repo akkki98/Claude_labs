@@ -434,34 +434,6 @@ Suggest improvements.
 
 ---
 
-# Bonus Challenge
-
-Generate a complete developer onboarding package.
-
-### Prompt
-
-```text
-Assume I am joining this project today.
-
-Generate documentation including:
-
-- Repository overview
-- Architecture
-- Folder structure
-- API documentation
-- Database design
-- Deployment overview
-- Coding standards
-- Build process
-- Testing strategy
-- Debugging guide
-- Frequently modified files
-- Suggested learning path
-
-Save it as:
-
-DEVELOPER_GUIDE.md
-```
 
 ---
 
