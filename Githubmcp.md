@@ -61,12 +61,7 @@ Settings
 
 Open a terminal and run:
 
-```bash
-claude mcp add github \
-  --transport stdio \
-  --env GITHUB_TOKEN=YOUR_GITHUB_PAT \
-  -- npx -y @modelcontextprotocol/server-github
-```
+claude mcp add --transport http github https://api.githubcopilot.com/mcp/ --header "Authorization: Bearer your_token"
 
 Replace `YOUR_GITHUB_PAT` with your GitHub Personal Access Token.
 
